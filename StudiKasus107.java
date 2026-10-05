@@ -16,6 +16,5 @@ public class StudiKasus107 {
         jumlahCup = sc.nextInt();
         System.out.print("Masukkan uang yang dibayar: ");
         uangBayar = sc.nextInt();
-
     }
 }
