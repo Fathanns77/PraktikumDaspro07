@@ -3,6 +3,8 @@ Nama  : Fathan Nashwan Septavianto
 NIM   : 264107020046
 Kelas : TI - 1G
 
+Hasil Uji SK2 oleh Muhammad Faiz Annabil
+
 | No    | Jenis     | Dokumen   | Juara/Dana    | Output    | Sesuai    |
 | ----  | ----      | ---       | ---           | ---       | ---       |
 | 1     | BAKORMA   | 3         | Juara 1       | Dokumen Tidak Lengkap        | Benar |
